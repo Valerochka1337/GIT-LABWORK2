@@ -1,0 +1,3 @@
+[submodule "SUBMODULE"]
+	path = SUBMODULE
+	url = git@github.com:Valerochka1337/SUBMODULE.git
